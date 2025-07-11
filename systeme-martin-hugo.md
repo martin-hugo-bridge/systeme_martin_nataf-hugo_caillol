@@ -76,9 +76,7 @@ T-walsh — Majeure 5e
 | 2♠ | Au moins 5-4 mineur, courte ♠, 9–12H ou 17+H |
 | 2SA | 11–12H régulier |
 | 3♣ | Barrage (4–7H), 6+♣ |
-| 3♦ | 17–18H régulier |
 | 3♥/♠ | Mêmes mains que 2♥/♠ mais 13–16H |
-| 3SA | 13–16H régulier |
 
 ---
 
