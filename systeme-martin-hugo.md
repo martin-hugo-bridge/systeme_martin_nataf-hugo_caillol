@@ -68,7 +68,7 @@ T-walsh — Majeure 5e
 |--------|---------------|
 | 1♦ | Transfert, 4+♥ |
 | 1♥ | Transfert, 4+♠ |
-| 1♠ | Transfert pour les SA, mains régulières faibles ou trefles faibles ou carreaux dans une main propo |
+| 1♠ | Relais avec mains régulières faibles ou trefles faibles ou carreaux dans une main propo |
 | 1SA | FM, mains régulières ou avec des ♣ comme couleur la plus longue |
 | 2♣ | 6+♦ faible (5–9H) ou 5+♦ FM |
 | 2♦ | fit ♣ propositionnel |
@@ -260,7 +260,6 @@ Toute redemande autre que 2♣ sur 1NT montre une main au moins propositionnelle
 ## Développements sur 1♣ - 1♠
 
 > 1♠ : Transfert pour les SA, mains régulières faibles ou trefles faibles ou carreaux dans une main propo |
-
 
 | Enchère        | Signification |
 |----------------|---------------|
