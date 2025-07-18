@@ -72,8 +72,8 @@ T-walsh — Majeure 5e
 | 1SA | FM, mains régulières ou avec des ♣ comme couleur la plus longue |
 | 2♣ | 6+♦ faible (5–9H) ou 5+♦ FM |
 | 2♦ | fit ♣ propositionnel |
-| 2♥ | Au moins 5-4 mineur, courte ♥, 9–12H ou 17+H |
-| 2♠ | Au moins 5-4 mineur, courte ♠, 9–12H ou 17+H |
+| 2♥ | Au moins 5-4 mineur, court à ♥, 9–12H ou 17+H |
+| 2♠ | Au moins 5-4 mineur, court à ♠, 9–12H ou 17+H |
 | 2SA | 11–12H régulier |
 | 3♣ | Barrage (4–7H), 6+♣ |
 | 3♥/♠ | Mêmes mains que 2♥/♠ mais 13–16H |
