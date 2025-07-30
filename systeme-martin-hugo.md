@@ -120,7 +120,7 @@ Après **1♣ - 1♦ - 1♥** :
 - 2♦ : FM (double 2)
 - 2♥ : 5+ cartes, NF
 - 2♠/3♣/3♦ : bicolore FM 5-5
-- 3♥ : 6+♥, propositionnel
+- 3♥ : barrage
 - 3♠/4♣/4♦ : chicane, 6+♥, espoir de chelem
 
 Après **1♣ - 1♦ - 1♠** :
@@ -180,7 +180,7 @@ Après **1♣ - 1♥ - 1♠** :
 - 2♥ : bicolore 5-4 NF
 - 2♠ : 6+♠ NF
 - 3♣/♦/♥ : bicolore FM 5-5
-- 3♠ : 6+♠, propositionnel
+- 3♠ : barrage
 - 4♣/♦/♥ : chicane, 6+♠, espoir de chelem
 
 Après **1♣ - 1♥ - 2♣** :
