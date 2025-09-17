@@ -68,23 +68,21 @@ T-walsh — Majeure 5e
 |--------|---------------|
 | 1♦ | Transfert, 4+♥ |
 | 1♥ | Transfert, 4+♠ |
-| 1♠ | Relais, 7+H, souvent 4+♣, nie une majeure 4e |
-| 1SA | 7–10H, régulier avec 5♦ ou 3343 |
+| 1♠ | Relais avec mains régulières faibles ou trefles faibles ou carreaux dans une main propo |
+| 1SA | FM, mains régulières ou avec des ♣ comme couleur la plus longue |
 | 2♣ | 6+♦ faible (5–9H) ou 5+♦ FM |
-| 2♦ | 6+♦ limite |
-| 2♥ | 45 mineures, courte ♥, 9–12H ou 17+H |
-| 2♠ | 45 mineures, courte ♠, 9–12H ou 17+H |
+| 2♦ | fit ♣ propositionnel |
+| 2♥ | Au moins 5-4 mineur, court à ♥, 9–12H ou 17+H |
+| 2♠ | Au moins 5-4 mineur, court à ♠, 9–12H ou 17+H |
 | 2SA | 11–12H régulier |
-| 3♣ | Faible (4–8H), 5+♣ |
-| 3♦ | 17–18H régulier |
+| 3♣ | Barrage (4–7H), 6+♣ |
 | 3♥/♠ | Mêmes mains que 2♥/♠ mais 13–16H |
-| 3SA | 13–16H régulier |
 
 ---
 
 ## Développements sur 1♣ - 1♦
 
-> 1♦ = texas ♥ (4+)
+> 1♦ : texas ♥ (4+)
 
 | Enchère | Signification |
 |----------------------|---------------|
@@ -104,26 +102,6 @@ T-walsh — Majeure 5e
 
 ---
 
-## Développements sur 1♣ - 1♥
-
-> 1♥ = texas ♠ (4+)
-
-| Enchère | Signification |
-|----------------------|---------------|
-| 1♥ | rectification avec 3♥ (≤15H), ou 2♥ dans une main régulière 12–14H sans 4♠ |
-| 1♠ | 4♠ naturel, 11–17H |
-| 1SA | 18–19H, sans fit |
-| 2♣ | irrégulier, 1re zone, 5+♣, sans 3♥ |
-| 2♦ | bicolore cher, 16+H |
-| 2♥ | fit 4e, 1re zone |
-| 2♠ | bicolore à saut, 18+H |
-| 2SA / 3♣ | 6+♣, 16+H avec/sans 3♥ |
-| 3♦ | fit 4e, main irrégulière, 15–17H ou 20+H |
-| 3♥ | fit 4e, 18–19H régulier |
-| 3♠ | splinter singleton 18-19H (3SA relais) |
-| 3SA | splinter chicane ♠ 18-19H|
-| 4♣/♦ | splinter chicane dans la couleur nommée|
-
 Après **1♣ - 1♦ - 1♥** :
 
 - 1♠ : relais avec mains mini
@@ -139,20 +117,32 @@ Après **1♣ - 1♦ - 1♥** :
 
 - 1SA : 4♠, main mini (NF)
 - 2♣ : propo (double 2)
-- 2♦ : artificiel, FM
+- 2♦ : FM (double 2)
 - 2♥ : 5+ cartes, NF
-- 2♠ / 3♣ / 3♦ : bicolore FM 5-5
-- 3♥ : 7+♥, barrage
+- 2♠/3♣/3♦ : bicolore FM 5-5
+- 3♥ : barrage
+- 3♠/4♣/4♦ : chicane, 6+♥, espoir de chelem
 
 Après **1♣ - 1♦ - 1♠** :
 
 - 1SA : mini, NF
 - 2♣ : faible
-- 2♦ : 4e forcing
+- 2♦ : 4e forcing (FM)
+  - 2♥ : 2 cartes à ♥
+  - 2♠ : enchère poubelle, rien à annoncer
+  - 2SA : arrêt ♦, 11-14 ou 18+
+  - 3♣ : 6-4
+  - 3♦ : bonne main (15+) qui ne peut pas annoncer les SA (Axx or xxx à ♦) et court à ♥
+  - 3♥ : 16+, 4315 or 4306
+  - 3♠ : bon 6-5, au max 4 perdantes
+  - 3SA : bon arrêt ♦, 15-17 singleton ♥
+
 - 2♥ : NF
 - 2♠ : fit NF
 - 2SA : naturel, propositionnel
-- 3♣ / 3♦ : naturel, propositionnel, au moins 4-5
+  - 3♥ : 3♥, deuxième zone et court à ♦
+
+- 3♣/♦ : naturel, propositionnel, au moins 4-5
 - 3♥ : 6+♥, propositionnel
 - 3♠ : fit propo
 
@@ -163,11 +153,11 @@ voir 1♣ - 1♥ - 2♣ du SEF
 
 ## Développements sur 1♣ - 1♥
 
-> 1♥ = texas ♠ (4+)
+> 1♥ : texas ♠ (4+)
 
 | Enchère | Signification |
 |---------|---------------|
-| 1♠ | rectification avec 3 cartes (≤15H), ou 2 cartes si main régulière 12–14 |
+| 1♠ | rectification avec 3♠ (≤15H), ou 2♠ si main régulière 12–14 |
 | 1SA | 18–19H sans fit |
 | 2♣ | première zone irrégulier, 5+♣ sans 3♠ |
 | 2♦ | bicolore cher, 16+H |
@@ -184,7 +174,14 @@ voir 1♣ - 1♥ - 2♣ du SEF
 
 Après **1♣ - 1♥ - 1♠** :
 
-- double-deux classique (comme sur 1♣ - 1♠ - 1SA du SEF)
+- 1SA : 7-10H
+- 2♣ : propo (double 2)
+- 2♦ : FM (double 2)
+- 2♥ : bicolore 5-4 NF
+- 2♠ : 6+♠ NF
+- 3♣/♦/♥ : bicolore FM 5-5
+- 3♠ : barrage
+- 4♣/♦/♥ : chicane, 6+♠, espoir de chelem
 
 Après **1♣ - 1♥ - 2♣** :
 
@@ -253,67 +250,98 @@ Après ce relais, l’enchère du répondant fixe l’atout.
 
 ---
 
+Après l'ouverture d'1♣, quand le répondant a une main faible sans majeure, il peut soit : 
+- enchérir 2♣ (avec des ♦ faibles)
+- enchérir 1♠ puis passer sur 1SA ou 2♣ avec une main régulière faible
+- enchérir 1♠ puis passer sur 2♣ ou ou enchérir 2♣ sur 1SA avec un fit trèfle faible (équivalent de 1♣ - 2♣ dans le SEF)
+
+Toute redemande autre que 2♣ sur 1NT montre une main au moins propositionnelle.
+
 ## Développements sur 1♣ - 1♠
 
-> 1♠ = relais, 7+H, souvent 4+♣, nie une majeure 4e
+> 1♠ : Transfert pour les SA, mains régulières faibles ou trefles faibles ou carreaux dans une main propo |
 
 | Enchère        | Signification |
 |----------------|---------------|
-| 1SA            | 12–14 régulier |
-| 2♣             | 1re zone, irrégulier |
-| 2♦/♥/♠         | 15–17H, force dans la couleur |
-| 2SA            | 18–19H régulier avec 4♣ |
-| 3♣             | 2e zone, 5+♣ |
-| 3♦/♥/♠         | 18+, courte dans la couleur nommée |
-| 3SA            | 18–19H régulier sans 4♣ |
-| 4♣             | Blackwood |
-
-Le répondant peut aussi montrer des forces au palier de 2 ou des courtes au palier de 3.
-
-Après toutes les redemandes non-minimum de l’ouvreur, 4♣ du répondant est toujours blackwood à l’atout ♣,  
-de même si l’ouvreur enchérit 4♣ sur un 3SA du répondant (sur une enchère du répondant montrant une courte, il dénie l’arrêt et 4♣ est non-forcing).
+| 1SA            | 12–14H régulier |
+| 2♣             | 1ère zone, irrégulier |
+| 2♦             | 18-19H régulier ou bicolore cher |
+| 2♥/♠           | bicolore cher |
+| 2SA            | 17-18H, unicolore ♣ sans courte |
+| 3♣             | 2e zone, bel unicolore |
+| 3♦/♥/♠         | 18H+, 6+♣ courte dans la couleur nommée |
 
 Après **1♣ - 1♠ - 1SA** :
 
-- 2♣ : faible (7–10) NF
-- 2♦ / ♥ / ♠ : arrêt dans la couleur pour jouer à SA (au moins propositionnel)
+- 2♣ : 5+♣, faible (6–10H)
+- 2♦ : 6+♦, propositionnel
 - 2SA : propositionnel
-- 3♣ : 6+♣, propositionnel
-- 3♦ / ♥ / ♠ : courte dans la couleur (pour jouer 3SA ou chercher chelem ♣)
-- 3SA : 13–17H régulier
 
 Après **1♣ - 1♠ - 2♣** :
 
-- 2♦ : relais FM (plutôt dans l’idée de chercher un chelem à ♣)
-- 2♥ / ♠ : arrêt dans la couleur pour jouer à SA (au moins propositionnel)
+- 2♦ : 6+♦, propositionnel
 - 2SA : propositionnel
-- 3♣ : irrégulier, propo (l’ouvreur peut annoncer une force ou 3SA pour les jouer)
-- 3♦ / ♥ / ♠ : courte dans la couleur (pour jouer 3SA)
-- 3SA : 13–17H régulier
+- 3♣ : fit NF
 
-Après **1♣ - 1♠ - 2♣ - 2♦** :
+Après **1♣ - 1♠ - 2♦** :
 
-- 2♥/♠/SA : courte ♥/♠/♦
-- 3♣ : semi-régulier avec 6♣
-- 3♦ : 2245
-- 3♥ : 2425
-- 3♠ : 4225
-- 3SA : 1156
+- 2♥ : relais FM (9+H, possible 8H avec unicolore ♣)
+  - 2♠ : enchère d'attente, bicolore cher naturel (5431 peu encourageant ou 5422 sans arrêts)
+  - 2SA : 18-19H régulier
+  - 3♣ : 6+♣-4♦
+  - 3♦ : 6+♣-5+♦
+  - 3♥ : 1345
+  - 3♠ : 3145
+  - 3SA : 2245 avec arrêt ou demi arrêt dans les majeures
+- 2♠ : relais faible (équivalent 2SA modérateur)
+  - 2SA : 18-19H régulier
+  - 3♣ : 5+♣-4+♦ mini
+  - 3autre : naturel/force/résidu avec 5+♣-4+♦ forts
+
+Après **1♣ - 1♠ - 2♦ - 2♥ - 2SA** :
+
+- 3♣ : 6+♦ (texas) puis développements comme sur ouverture d'1SA
+- 3♦ : 6+♣ et court à ♦
+- 3♥ : 6+♣ et court à ♥
+- 3♠ : 6+♣ et court à ♠
+- 3SA : pour les jouer
+
+Après **1♣ - 1♠ - 2♦ - 2♠ - 2SA** :
+
+- 3♣ : 2245 (6-8H)
+- 3♦ : 2254 (6-8H)
+- 3♥ : court à ♥ (au moins 54 mineur 6-8H)
+- 3♠ : court à ♠ (au moins 54 mineur 6-8H)
+- 3SA : pour les jouer
 
 ---
 
 ## Développements sur 1♣ - 1SA
 
-> 1SA = 4+♦, régulier, 7–10H
+> 1SA : FM, mains régulières ou avec des ♣ comme couleur la plus longue |
 
-| Enchère        | Signification |
-|----------------|---------------|
-| 2♣/♦           | Non forcing |
-| 2M             | Bicolore cher, 16+H |
-| 2SA            | Propositionnel, 16–17H (semi-régulier ou court à ♦) |
-| 3♣             | Unicolore ♣, propositionnel, 16–17H |
-| 3♦             | Bicolore cher |
-| 3SA            | Pour les jouer |
+- 2♣	1re zone, irrégulier
+  - 2♦ : relais -> l'ouvreur décrit des forces
+- 2♦ : 12-14H ou 18-19H régulier (forcing jusqu'à 4SA si 18-19H)
+  - 2♥ : relais
+    - 2♠	12-14H
+    - 2NT	18-19H sans mineure 5e
+    - 3m	18-19H, 5m
+  - 2♠/SA : 5+♣ and 4♥/♠
+  - 3♣ : 6+♣
+  - 3♦/♥/♠ : 6+♣, courte dans la couleur nommée
+- 2♥/♠ : 15H+, naturel
+- 2SA : 15+H, bicolore ♣+♦
+- 3♣ : 15+H unicolore sans splinter
+- 3♦/♥/♠ : 15+H, unicolore avec courte dans la couleur nommée
+
+> Si le répondant a une main irrégulière il devrait la décrire sur 2♦. Donc, quand il utilise le relais à 2♥ il doit avoir une main régulière (sans majeure 4e).
+
+Après **1♣ - 1SA - 2♦ - 2♥ - 2♠ - 2SA** : 
+- 3♣/♦ : 4 cartes
+- 3♥ : 5♣
+- 3♠ : 5♦
+- 3SA : pas de mineure au moins 4e
 
 ---
 
@@ -325,10 +353,9 @@ Après **1♣ - 1♠ - 2♣ - 2♦** :
 |---------|---------------|
 | 2♦      | Non forcing, pas emballé par un texas ♦ faible |
 | 2M      | Bicolore cher (16+H) |
-| 2SA     | 18–19H régulier sans fit ♦ |
+| 2SA     | 18–19H régulier ou 18+ fitté ♦ (forcing jusqu'à 3♦) |
 | 3♣      | Unicolore ♣, propositionnel, 16–18H, non fitté |
 | 3♦      | Deuxième zone, fitté ♦ |
-| 3SA     | 18–19H régulier avec fit ♦ |
 
 ---
 
@@ -413,11 +440,11 @@ Après **1♦ - 1♥/♠ - 2♣** :
 | 1SA | 5–11H, semi-forcing |
 | 2♣ | 2/1 FM, possible de ne pas avoir une vraie couleur si aucune autre enchère|
 | 2♦ | 2/1 FM, vraie couleur (5+ cartes) |
-| 2♥ | Fit 6–10H avec 3 cartes, ou (4)5–7H avec 4 cartes |
+| 2♥ | Fit 6–10H avec 3 cartes, ou 4-8H avec 4 cartes sans courte |
 | 2♠ | 5♠ + 3♥, (9)10–11H |
 | 2SA | 11–15H, fitté |
 | 3♣/♦ | Limite avec 6 cartes |
-| 3♥ | 8–10H, 4 cartes |
+| 3♥ | Fit 4-7H avec 4 cartes, barrage |
 | 3♠ | Splinter singleton (3SA relais, on nomme par paliers) |
 | 3SA | Splinter chicane ♠ |
 | 4♣/♦ | Splinter chicane dans la couleur nommée |
@@ -485,10 +512,10 @@ Après **1♥ - 2SA** :
 | 1SA | 5–11H, semi-forcing |
 | 2♣ | 2/1 FM, possible de ne pas avoir une vraie couleur si pas d’autre enchère |
 | 2♦/♥ | 2/1 FM, vraie couleur (5+ cartes) |
-| 2♠ | Fit 6–10H avec 3 cartes, ou (4)5–7H avec 4 cartes |
+| 2♠ | Fit 6–10H avec 3 cartes, ou 4-8H avec 4 cartes sans courte |
 | 2SA | 11–15H, fitté |
 | 3♣/♦/♥ | Limite avec 6 cartes |
-| 3♠ | 8–10H, 4 cartes |
+| 3♠ | Fit 4-7H avec 4 cartes, barrage |
 | 3SA | Splinter singleton (4♣ relais, on nomme par paliers) |
 | 4♣/♦/♥ | Splinter chicane dans la couleur nommée |
 
@@ -736,7 +763,7 @@ Après **1SA – 2♥ – 2♠ – 2SA – 3♣ – 3♦** : – 3♥ relais pui
   - **2♥** : unicolore ♥ ou bicolore ♥+autre ou 24+ régulier
     - **2♠** : relais obligatoire
       - **2SA** : 24+ régulier
-      - Autre enchère = naturel avec une main à base de ♥
+      - Autre enchère : naturel avec une main à base de ♥
   - **2♠** : unicolore ♠
   - **2SA** : 22–23H régulier
   - **3♣** : naturel (majeure 4e possible)
@@ -831,8 +858,6 @@ Après **1♠ - X** :
 
 **1m – Passe – 1M – 1SA** : bicolore 6m’-4M’
 
----
-
 ## Michaels cue-bids précisés
 
 **Après une ouverture mineure (1♣ ou 1♦) :**
@@ -846,3 +871,4 @@ Après **1♠ - X** :
 - 1M 2SA : les mineures
 - 1M 2M : l’autre majeure et les ♣
 - 1M 3♣ : l’autre majeure et les ♦
+- =======
