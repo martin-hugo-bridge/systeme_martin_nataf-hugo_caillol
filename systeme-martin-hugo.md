@@ -857,3 +857,19 @@ Après **1♠ - X** :
 ---
 
 **1m – Passe – 1M – 1SA** : bicolore 6m’-4M’
+
+--- 
+
+## Michaels cue-bids précisés
+
+**Après une ouverture mineure (1♣ ou 1♦) :**
+
+- 1m 2SA : l’autre mineure + les ♥
+- 1m 2♦ : les majeures
+- Pas de Michaels pour l’autre mineure + les ♠
+
+**Après une ouverture majeure (1♥ ou 1♠) :**
+
+- 1M 2SA : les mineures
+- 1M 2M : l’autre majeure et les ♣
+- 1M 3♣ : l’autre majeure et les ♦
