@@ -413,11 +413,11 @@ Après **1♦ - 1♥/♠ - 2♣** :
 | 1SA | 5–11H, semi-forcing |
 | 2♣ | 2/1 FM, possible de ne pas avoir une vraie couleur si aucune autre enchère|
 | 2♦ | 2/1 FM, vraie couleur (5+ cartes) |
-| 2♥ | Fit 6–10H avec 3 cartes, ou (4)5–7H avec 4 cartes |
+| 2♥ | Fit 6–10H avec 3 cartes, ou 4-8H avec 4 cartes sans courte |
 | 2♠ | 5♠ + 3♥, (9)10–11H |
 | 2SA | 11–15H, fitté |
 | 3♣/♦ | Limite avec 6 cartes |
-| 3♥ | 8–10H, 4 cartes |
+| 3♥ | Fit 4-7H avec 4 cartes, barrage |
 | 3♠ | Splinter singleton (3SA relais, on nomme par paliers) |
 | 3SA | Splinter chicane ♠ |
 | 4♣/♦ | Splinter chicane dans la couleur nommée |
@@ -485,10 +485,10 @@ Après **1♥ - 2SA** :
 | 1SA | 5–11H, semi-forcing |
 | 2♣ | 2/1 FM, possible de ne pas avoir une vraie couleur si pas d’autre enchère |
 | 2♦/♥ | 2/1 FM, vraie couleur (5+ cartes) |
-| 2♠ | Fit 6–10H avec 3 cartes, ou (4)5–7H avec 4 cartes |
+| 2♠ | Fit 6–10H avec 3 cartes, ou 4-8H avec 4 cartes sans courte |
 | 2SA | 11–15H, fitté |
 | 3♣/♦/♥ | Limite avec 6 cartes |
-| 3♠ | 8–10H, 4 cartes |
+| 3♠ | Fit 4-7H avec 4 cartes, barrage |
 | 3SA | Splinter singleton (4♣ relais, on nomme par paliers) |
 | 4♣/♦/♥ | Splinter chicane dans la couleur nommée |
 
